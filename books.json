@@ -1,6 +1,6 @@
 [
     {
-        "name": "Война и мир. Том I",
+        "name": "Война и мир. Том 1",
         "author": "Толстой Л.Н.",
         "year": 1863,
         "originalTextPath": "./txt/1. voyna-i-mir-tom-1.src.txt",
@@ -28,11 +28,11 @@
         "lemmatizedTextPath": "./txt/4. palata-6-sbornik.lemmatized.txt"
     },
     {
-        "name": "Повесть о разуме",
-        "author": "Зощенко М.М.",
-        "year": 1943,
-        "originalTextPath": "./txt/5. povest-o-razume.src.txt",
-        "lemmatizedTextPath": "./txt/5. povest-o-razume.lemmatized.txt"
+        "name": "Фома Гордеев. Город желтого дьявола",
+        "author": "Горький М.М.",
+        "year": 1907,
+        "originalTextPath": "./txt/5. foma-gordeev.gorod-zheltogo-djavola.src.txt",
+        "lemmatizedTextPath": "./txt/5. foma-gordeev.gorod-zheltogo-djavola.lemmatized.txt"
     },
     {
         "name": "Что делать?",
@@ -57,16 +57,46 @@
     },
     {
         "name": "Старууха Изергиль. Карамола.",
-        "author": "Гончаров И.А.",
+        "author": "Горький М.М.",
         "year": 1894,
         "originalTextPath": "./txt/9. staruha-isergil.karamola.src.txt",
         "lemmatizedTextPath": "./txt/9. staruha-isergil.karamola.lemmatized.txt"
     },
     {
         "name": "Аэлита",
-        "author": "Толстой А.Н.",
-        "year": 1923,
+        "author": "Толстой Е.О.",
+        "year": 1947,
         "originalTextPath": "./txt/10. aelita.src.txt",
         "lemmatizedTextPath": "./txt/10. aelita.lemmatized.txt"
+    },
+    {
+        "name": "12 стульев",
+        "author": "Илья Ильф и Евгений Петров",
+        "year": 1927,
+        "originalTextPath": "./txt/11. 12-stuljev.src.txt",
+        "lemmatizedTextPath": "./txt/11. 12-stuljev.lemmatized.txt"
+    },
+    {
+        "name": "Похождения бравого солдата Швейка",
+        "author": "Ярослав Гашек",
+        "year": 1923,
+        "originalTextPath": "./txt/12. pohozhdeniya-bravogo-soldata-shveyka.src.txt",
+        "lemmatizedTextPath": "./txt/12. pohozhdeniya-bravogo-soldata-shveyka.lemmatized.txt"
+    },
+    {
+        "name": "Записки сумасшедшего",
+        "author": "Гоголь Н.В.",
+        "year": 1834,
+        "originalTextPath": "./txt/13. zapiski sumasshedshego.src.txt",
+        "lemmatizedTextPath": "./txt/13. zapiski sumasshedshego.lemmatized.txt"
+    },
+    {
+        "name": "История одного города",
+        "author": "Салтыков-Щедрин М.Е.",
+        "year": 1870,
+        "originalTextPath": "./txt/14. istoriya odnogo goroda.src.txt",
+        "lemmatizedTextPath": "./txt/14. istoriya odnogo goroda.lemmatized.txt"
     }
-]    
+
+]
+

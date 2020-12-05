@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Война и мир. Том I",
+        "author": "Толстой Л.Н.",
+        "year": 1863,
+        "originalTextPath": "./txt/1. voyna-i-mir-tom-1.src.txt",
+        "lemmatizedTextPath": "./txt/1. voyna-i-mir-tom-1.lemmatized.txt"
+    },
+    {
+        "name": "Идиот",
+        "author": "Достоевский Ф.М.",
+        "year": 1869,
+        "originalTextPath": "./txt/2. idiot.src.txt",
+        "lemmatizedTextPath": "./txt/2. idiot.lemmatized.txt"
+    },
+    {
+        "name": "Мастер и Маргарита",
+        "author": "Булгаков М.А.",
+        "year": 1967,
+        "originalTextPath": "./txt/3. master-i-margarita.src.txt",
+        "lemmatizedTextPath": "./txt/3. master-i-margarita.lemmatized.txt"
+    },
+    {
+        "name": "Палата № 6",
+        "author": "Чехов А.П.",
+        "year": 1892,
+        "originalTextPath": "./txt/4. palata-6-sbornik.src.txt",
+        "lemmatizedTextPath": "./txt/4. palata-6-sbornik.lemmatized.txt"
+    },
+    {
+        "name": "Повесть о разуме",
+        "author": "Зощенко М.М.",
+        "year": 1943,
+        "originalTextPath": "./txt/5. povest-o-razume.src.txt",
+        "lemmatizedTextPath": "./txt/5. povest-o-razume.lemmatized.txt"
+    },
+    {
+        "name": "Что делать?",
+        "author": "Чернышевский Н.Г.",
+        "year": 1863,
+        "originalTextPath": "./txt/6. сhto-delat.src.txt",
+        "lemmatizedTextPath": "./txt/6. сhto-delat.lemmatized.txt"
+    },
+    {
+        "name": "Отцы и дети",
+        "author": "Тургенев И.С.",
+        "year": 1860,
+        "originalTextPath": "./txt/7. otcy-i-dety.src.txt",
+        "lemmatizedTextPath": "./txt/7. otcy-i-dety.lemmatized.txt"
+    },
+    {
+        "name": "Обломов",
+        "author": "Гончаров И.А.",
+        "year": 1859,
+        "originalTextPath": "./txt/8. oblomov.src.txt",
+        "lemmatizedTextPath": "./txt/8. oblomov.lemmatized.txt"
+    },
+    {
+        "name": "Старууха Изергиль. Карамола.",
+        "author": "Гончаров И.А.",
+        "year": 1894,
+        "originalTextPath": "./txt/9. staruha-isergil.karamola.src.txt",
+        "lemmatizedTextPath": "./txt/9. staruha-isergil.karamola.lemmatized.txt"
+    },
+    {
+        "name": "Аэлита",
+        "author": "Толстой А.Н.",
+        "year": 1923,
+        "originalTextPath": "./txt/10. aelita.src.txt",
+        "lemmatizedTextPath": "./txt/10. aelita.lemmatized.txt"
+    }
+]    
