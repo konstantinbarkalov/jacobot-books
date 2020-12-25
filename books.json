@@ -2,101 +2,424 @@
     {
         "name": "Война и мир. Том 1",
         "author": "Толстой Л.Н.",
-        "year": 1863,
-        "originalTextPath": "./txt/1. voyna-i-mir-tom-1.src.txt",
-        "lemmatizedTextPath": "./txt/1. voyna-i-mir-tom-1.lemmatized.txt"
+        "year": 1868,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/voyna-i-mir-tom-1.src.txt",
+        "lemmatizedTextPath": "./txt/voyna-i-mir-tom-1.lemmatized.txt"
     },
     {
         "name": "Идиот",
         "author": "Достоевский Ф.М.",
         "year": 1869,
-        "originalTextPath": "./txt/2. idiot.src.txt",
-        "lemmatizedTextPath": "./txt/2. idiot.lemmatized.txt"
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/idiot.src.txt",
+        "lemmatizedTextPath": "./txt/idiot.lemmatized.txt"
     },
     {
         "name": "Мастер и Маргарита",
         "author": "Булгаков М.А.",
         "year": 1967,
-        "originalTextPath": "./txt/3. master-i-margarita.src.txt",
-        "lemmatizedTextPath": "./txt/3. master-i-margarita.lemmatized.txt"
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/master-i-margarita.src.txt",
+        "lemmatizedTextPath": "./txt/master-i-margarita.lemmatized.txt"
     },
     {
         "name": "Палата № 6",
         "author": "Чехов А.П.",
         "year": 1892,
-        "originalTextPath": "./txt/4. palata-6-sbornik.src.txt",
-        "lemmatizedTextPath": "./txt/4. palata-6-sbornik.lemmatized.txt"
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/palata-6-sbornik.src.txt",
+        "lemmatizedTextPath": "./txt/palata-6-sbornik.lemmatized.txt"
     },
     {
-        "name": "Фома Гордеев. Город желтого дьявола",
+        "name": "Фома Гордеев",
         "author": "Горький М.М.",
-        "year": 1907,
-        "originalTextPath": "./txt/5. foma-gordeev.gorod-zheltogo-djavola.src.txt",
-        "lemmatizedTextPath": "./txt/5. foma-gordeev.gorod-zheltogo-djavola.lemmatized.txt"
+        "year": 1899,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/foma-gordeev.src.txt",
+        "lemmatizedTextPath": "./txt/foma-gordeev.lemmatized.txt"
     },
     {
         "name": "Что делать?",
         "author": "Чернышевский Н.Г.",
         "year": 1863,
-        "originalTextPath": "./txt/6. сhto-delat.src.txt",
-        "lemmatizedTextPath": "./txt/6. сhto-delat.lemmatized.txt"
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/сhto-delat.src.txt",
+        "lemmatizedTextPath": "./txt/сhto-delat.lemmatized.txt"
     },
     {
         "name": "Отцы и дети",
         "author": "Тургенев И.С.",
         "year": 1860,
-        "originalTextPath": "./txt/7. otcy-i-dety.src.txt",
-        "lemmatizedTextPath": "./txt/7. otcy-i-dety.lemmatized.txt"
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/otcy-i-dety.src.txt",
+        "lemmatizedTextPath": "./txt/otcy-i-dety.lemmatized.txt"
     },
     {
         "name": "Обломов",
         "author": "Гончаров И.А.",
         "year": 1859,
-        "originalTextPath": "./txt/8. oblomov.src.txt",
-        "lemmatizedTextPath": "./txt/8. oblomov.lemmatized.txt"
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/oblomov.src.txt",
+        "lemmatizedTextPath": "./txt/oblomov.lemmatized.txt"
     },
     {
-        "name": "Старууха Изергиль. Карамола.",
+        "name": "Старуха Изергиль",
         "author": "Горький М.М.",
         "year": 1894,
-        "originalTextPath": "./txt/9. staruha-isergil.karamola.src.txt",
-        "lemmatizedTextPath": "./txt/9. staruha-isergil.karamola.lemmatized.txt"
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/staruha-isergil.src.txt",
+        "lemmatizedTextPath": "./txt/staruha-isergil.lemmatized.txt"
     },
     {
         "name": "Аэлита",
         "author": "Толстой Е.О.",
-        "year": 1947,
-        "originalTextPath": "./txt/10. aelita.src.txt",
-        "lemmatizedTextPath": "./txt/10. aelita.lemmatized.txt"
+        "year": 1923,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/aelita.src.txt",
+        "lemmatizedTextPath": "./txt/aelita.lemmatized.txt"
     },
     {
         "name": "12 стульев",
         "author": "Илья Ильф и Евгений Петров",
         "year": 1927,
-        "originalTextPath": "./txt/11. 12-stuljev.src.txt",
-        "lemmatizedTextPath": "./txt/11. 12-stuljev.lemmatized.txt"
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/12-stuljev.src.txt",
+        "lemmatizedTextPath": "./txt/12-stuljev.lemmatized.txt"
     },
     {
         "name": "Похождения бравого солдата Швейка",
         "author": "Ярослав Гашек",
-        "year": 1923,
-        "originalTextPath": "./txt/12. pohozhdeniya-bravogo-soldata-shveyka.src.txt",
-        "lemmatizedTextPath": "./txt/12. pohozhdeniya-bravogo-soldata-shveyka.lemmatized.txt"
+        "year": 1922,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/pohozhdeniya-bravogo-soldata-shveyka.src.txt",
+        "lemmatizedTextPath": "./txt/pohozhdeniya-bravogo-soldata-shveyka.lemmatized.txt"
     },
     {
         "name": "Записки сумасшедшего",
         "author": "Гоголь Н.В.",
         "year": 1834,
-        "originalTextPath": "./txt/13. zapiski sumasshedshego.src.txt",
-        "lemmatizedTextPath": "./txt/13. zapiski sumasshedshego.lemmatized.txt"
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/zapiski-sumasshedshego.src.txt",
+        "lemmatizedTextPath": "./txt/zapiski-sumasshedshego.lemmatized.txt"
     },
     {
         "name": "История одного города",
         "author": "Салтыков-Щедрин М.Е.",
         "year": 1870,
-        "originalTextPath": "./txt/14. istoriya odnogo goroda.src.txt",
-        "lemmatizedTextPath": "./txt/14. istoriya odnogo goroda.lemmatized.txt"
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/istoriya-odnogo-goroda.src.txt",
+        "lemmatizedTextPath": "./txt/istoriya-odnogo-goroda.lemmatized.txt"
+    },
+    {
+        "name": "Большие Безобразия Маленького Папы",
+        "author": "Михайличенко Елизавета и Несис Юрий",
+        "year": 1991,
+        "ageCategory": "",
+        "section": "взрослая, детская",
+        "originalTextPath": "./txt/bolshie-bezobraziya-malenkogo-papy.src.txt",
+        "lemmatizedTextPath": "./txt/bolshie-bezobraziya-malenkogo-papy.lemmatized.txt"
+    },
+    {
+        "name": "Белые ночи",
+        "author": "Достоевский Ф.М.",
+        "year": 1848,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/belye-nochi.src.txt",
+        "lemmatizedTextPath": "./txt/belye-nochi.lemmatized.txt"
+    },
+    {
+        "name": "Чушь собачья",
+        "author": "Лукин Е.Ю.",
+        "year": 2003,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/chush-sobachya.src.txt",
+        "lemmatizedTextPath": "./txt/chush-sobachya.lemmatized.txt"
+    },
+    {
+        "name": "Дар Шаванахолы",
+        "author": "Макс Фрай",
+        "year": 2015,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/dar-Shavanaholy.src.txt",
+        "lemmatizedTextPath": "./txt/dar-Shavanaholy.lemmatized.txt"
+    },
+    {
+        "name": "Игра в бисер",
+        "author": "Герман Гессе",
+        "year": 1942,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/igra-v-biser.src.txt",
+        "lemmatizedTextPath": "./txt/igra-v-biser.lemmatized.txt"
+    },
+    {
+        "name": "Король, дама, валет",
+        "author": "Набоков В.В.",
+        "year": 1928,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/korol-dama-valet.src.txt",
+        "lemmatizedTextPath": "./txt/korol-dama-valet.lemmatized.txt"
+    },
+    {
+        "name": "Лолита",
+        "author": "Набоков В.В.",
+        "year": 1967,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/lolita.src.txt",
+        "lemmatizedTextPath": "./txt/lolita.lemmatized.txt"
+    },
+    {
+        "name": "О дивный новый мир",
+        "author": "Олдос Хаксли",
+        "year": 1932,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/o-divnyy-novyy-mir.src.txt",
+        "lemmatizedTextPath": "./txt/o-divnyy-novyy-mir.lemmatized.txt"
+    },
+    {
+        "name": "Смерть африканского охотника",
+        "author": "Аверченко А.Т.",
+        "year": 1914,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/smert-afrikanskogo-ohotnika.src.txt",
+        "lemmatizedTextPath": "./txt/smert-afrikanskogo-ohotnika.lemmatized.txt"
+    },
+    {
+        "name": "Записки Хендрика Груна из амстердамской богадельни",
+        "author": "Хендрик Грун",
+        "year": 2018,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/zapiski-Hendrika-Gruna-iz-amsterdamskoy-bogadelni.src.txt",
+        "lemmatizedTextPath": "./txt/zapiski-Hendrika-Gruna-iz-amsterdamskoy-bogadelni.lemmatized.txt"
+    },
+    {
+        "name": "Деловые люди",
+        "author": "О.Генри",
+        "year": 1910,
+        "ageCategory": "",
+        "section": "взрослая",
+        "originalTextPath": "./txt/delovye-lyudi.src.txt",
+        "lemmatizedTextPath": "./txt/delovye-lyudi.lemmatized.txt"
+    },
+    {
+        "name": "Красота",
+        "author": "Горчев Д.А.",
+        "year": 1999,
+        "ageCategory": "",
+        "section": "взрослая",
+        "originalTextPath": "./txt/krasota.src.txt",
+        "lemmatizedTextPath": "./txt/krasota.lemmatized.txt"
+    },
+    {
+        "name": "Книга песка",
+        "author": "Хорхе Борхес",
+        "year": 1975,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/kniga-peska.src.txt",
+        "lemmatizedTextPath": "./txt/kniga-peska.lemmatized.txt"
+    },
+    {
+        "name": "Москва — Петушки",
+        "author": "Ерофеев В.В.",
+        "year": 1969,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/moskva-petushki.src.txt",
+        "lemmatizedTextPath": "./txt/moskva-petushki.lemmatized.txt"
+    },
+    {
+        "name": "Непобедимое Солнце",
+        "author": "Пелевин В.О.",
+        "year": 2020,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/nepobedimoe-solnce.src.txt",
+        "lemmatizedTextPath": "./txt/nepobedimoe-solnce.lemmatized.txt"
+    },
+    {
+        "name": "Не позвать ли нам Дживса?",
+        "author": "Пелам Гренвилл Вудхаус",
+        "year": 1953,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/ne-pozvat-li-nam-Dzhivsa.src.txt",
+        "lemmatizedTextPath": "./txt/ne-pozvat-li-nam-Dzhivsa.lemmatized.txt"
+    },
+    {
+        "name": "Пейзаж, нарисованный чаем",
+        "author": "Милорад Павич",
+        "year": 1988,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/peyzazh-narisovannyy-chaem.src.txt",
+        "lemmatizedTextPath": "./txt/peyzazh-narisovannyy-chaem.lemmatized.txt"
+    },
+    {
+        "name": "Понедельник начинается в субботу",
+        "author": "Аркадий и Борис Стругацкие",
+        "year": 1964,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/ponedelnik-nachinaetsya-v-subbotu.src.txt",
+        "lemmatizedTextPath": "./txt/ponedelnik-nachinaetsya-v-subbotu.lemmatized.txt"
+    },
+    {
+        "name": "Сказка о тройке",
+        "author": "Аркадий и Борис Стругацкие",
+        "year": 1987,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/skazka-o-troyke.src.txt",
+        "lemmatizedTextPath": "./txt/skazka-o-troyke.lemmatized.txt"
+    },
+    {
+        "name": "Последнее путешествие Ийона Тихого",
+        "author": "Станислав Лем",
+        "year": 1999,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/poslednee-puteshestvie-Iyona-Tihogo.src.txt",
+        "lemmatizedTextPath": "./txt/poslednee-puteshestvie-Iyona-Tihogo.lemmatized.txt"
+    },
+    {
+        "name": "С нами бот",
+        "author": "Лукин Е.Ю.",
+        "year": 2009,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/s-nami-bot.src.txt",
+        "lemmatizedTextPath": "./txt/s-nami-bot.lemmatized.txt"
+    },
+    {
+        "name": "Юмористические рассказы",
+        "author": "Тэффи Н.А.",
+        "year": 1911,
+        "ageCategory": "?",
+        "section": "взрослая",
+        "originalTextPath": "./txt/yumoristicheskie-rasskazy(Teffi).src.txt",
+        "lemmatizedTextPath": "./txt/yumoristicheskie-rasskazy(Teffi).lemmatized.txt"
+    },
+    {
+        "name": "Заповедник",
+        "author": "Довлатов С.Д.",
+        "year": 1983,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/zapovednik.src.txt",
+        "lemmatizedTextPath": "./txt/zapovednik.lemmatized.txt"
+    },
+    {
+        "name": "Америка",
+        "author": "Франц Кафка",
+        "year": 1914,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/аmerika.src.txt",
+        "lemmatizedTextPath": "./txt/аmerika.lemmatized.txt"
+    },
+    {
+        "name": "Замок",
+        "author": "Франц Кафка",
+        "year": 1922,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/zamok.src.txt",
+        "lemmatizedTextPath": "./txt/zamok.lemmatized.txt"
+    },
+    {
+        "name": "Трое в лодке, не считая собаки",
+        "author": "Джером К.Джером",
+        "year": 1889,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/troe-v-lodke-ne-schitaya-sobaki.src.txt",
+        "lemmatizedTextPath": "./txt/troe-v-lodke-ne-schitaya-sobaki.lemmatized.txt"
+    },
+    {
+        "name": "Золотой теленок",
+        "author": "Илья Ильф и Евгений Петров",
+        "year": 1931,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/zolotoy-telenok.src.txt",
+        "lemmatizedTextPath": "./txt/zolotoy-telenok.lemmatized.txt"
+    },
+    {
+        "name": "Сукины дети",
+        "author": "Филатов Л.А.",
+        "year": 1990,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/sukiny-deti.src.txt",
+        "lemmatizedTextPath": "./txt/sukiny-deti.lemmatized.txt"
+    },
+    {
+        "name": "Карамора",
+        "author": "Горький М.М.",
+        "year": 1924,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/karamora.src.txt",
+        "lemmatizedTextPath": "./txt/karamora.lemmatized.txt"
+    },
+    {
+        "name": "Приключения барона Мюнхаузена",
+        "author": "Распе Р.Э.",
+        "year": 1785,
+        "ageCategory": "6+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/priklyucheniya-barona-Myunghauzena.src.txt",
+        "lemmatizedTextPath": "./txt/priklyucheniya-barona-Myunghauzena.lemmatized.txt"
+    },
+    {
+        "name": "Июнь",
+        "author": "Быков Д.Л.",
+        "year": 2017,
+        "ageCategory": "18+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/iyun.src.txt",
+        "lemmatizedTextPath": "./txt/iyun.lemmatized.txt"
+    },
+    {
+        "name": "Собачье сердце",
+        "author": "Булгаков М.А.",
+        "year": 1925,
+        "ageCategory": "12+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/sobache-serdce.src.txt",
+        "lemmatizedTextPath": "./txt/sobache-serdce.lemmatized.txt"
+    },
+    {
+        "name": "Вавилонские хроники / Обретение Энкиду",
+        "author": "Елена Хаецкая",
+        "year": 1997,
+        "ageCategory": "16+",
+        "section": "взрослая",
+        "originalTextPath": "./txt/vavilonskie-hroniki-obretenie-enkidu.src.txt",
+        "lemmatizedTextPath": "./txt/vavilonskie-hroniki-obretenie-enkidu.lemmatized.txt"
     }
-
 ]
-
